@@ -16,12 +16,12 @@ This repository is intended as a study as well as a professional portfolio for q
 
 ```
 bash
-quant-trading/ <br />
-├── notebooks/        # Research notebooks (analysis & experiments) <br />
-├── src/              # Reusable quantitative functions <br />
-├── data/             # Market data (local or cached) <br />
-├── README.md <br />
-└── requirements.txt <br />
+quant-trading/
+├── notebooks/        # Research notebooks (analysis & experiments)
+├── src/              # Reusable quantitative functions
+├── data/             # Market data (local or cached)
+├── README.md
+└── requirements.txt
 ```
 
 ## Covered topics
