@@ -14,8 +14,7 @@ This repository is intended as a study as well as a professional portfolio for q
 
 ## Repository structure
 
-quant-trading/
-
+quant-trading/ <br />
 ├── notebooks/        # Research notebooks (analysis & experiments) <br />
 ├── src/              # Reusable quantitative functions <br />
 ├── data/             # Market data (local or cached) <br />
