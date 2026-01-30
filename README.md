@@ -14,8 +14,7 @@ This repository is intended as a study as well as a professional portfolio for q
 
 ## Repository structure
 
-```
-bash
+```bash
 quant-trading/
 ├── notebooks/        # Research notebooks (analysis & experiments)
 ├── src/              # Reusable quantitative functions
