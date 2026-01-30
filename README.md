@@ -44,13 +44,13 @@ The research follows a disciplined workflow:
 
 ## Installation
 
-'''
+```
 bash
 git clone https://github.com/Brynhyldr/quant-trading.git
 cd quant-trading
 pip install -r requirements.txt
 jupyter lab
-'''
+```
 
 ## Disclaimer
 
